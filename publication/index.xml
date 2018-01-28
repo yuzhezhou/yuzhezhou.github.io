@@ -63,8 +63,8 @@ math = true&lt;/p&gt;
 highlight = true&lt;/p&gt;
 
 &lt;p&gt;Featured image
-Place your image in the static/img/ folder and reference its filename below, e.g. image = &amp;ldquo;final2.png&amp;rdquo;.
-[header] image = &amp;ldquo;final2.png&amp;rdquo; caption = &amp;ldquo;Single-Ended Sensor Design&amp;rdquo;&lt;/p&gt;
+Place your image in the static/img/ folder and reference its filename below, e.g. image = &amp;ldquo;final2.PNG&amp;rdquo;.
+[header] image = &amp;ldquo;final2.PNG&amp;rdquo; caption = &amp;ldquo;Single-Ended Sensor Design&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;+++&lt;/p&gt;
 
