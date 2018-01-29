@@ -11,61 +11,48 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
+      <title>Single-Ended, Fiber-coupled Sensor</title>
       <link>https://yuzhezhou.github.io/publication/paper1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Jan 2018 21:09:23 -0500</pubDate>
       
       <guid>https://yuzhezhou.github.io/publication/paper1/</guid>
-      <description>&lt;p&gt;+++ title = &amp;ldquo;A Person Re-Identification System For Mobile Devices&amp;rdquo; date = &amp;ldquo;2015-09-01&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Authors. Comma separated list, e.g. [&amp;ldquo;Bob Smith&amp;rdquo;, &amp;ldquo;David Jones&amp;rdquo;].
-authors = [&amp;ldquo;GA Cushen&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;Publication type.
-Legend:
-0 = Uncategorized
-1 = Conference proceedings
-2 = Journal
-3 = Work in progress
-4 = Technical report
-5 = Book
-6 = Book chapter
-publication_types = [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;Publication name and optional abbreviated version.
-publication = &amp;ldquo;In Signal Image Technology &amp;amp; Internet Systems (SITIS), IEEE.&amp;rdquo; publication_short = &amp;ldquo;In SITIS&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Abstract and optional shortened version.
-abstract = &amp;ldquo;Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website.&amp;rdquo; abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Featured image thumbnail (optional)
-image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Is this a selected publication? (true/false)
-selected = false&lt;/p&gt;
-
-&lt;p&gt;Projects (optional).
-Associate this publication with one or more of your projects.
-Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in content/project/.
-projects = [&amp;ldquo;deep-learning&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;Links (optional).
-url_pdf = &amp;ldquo;&lt;a href=&#34;http://arxiv.org/pdf/1512.04133v1&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://arxiv.org/pdf/1512.04133v1&amp;quot;&lt;/a&gt; url_preprint = &amp;ldquo;&amp;rdquo; url_code = &amp;ldquo;&amp;rdquo; url_dataset = &amp;ldquo;&amp;rdquo; url_project = &amp;ldquo;&amp;rdquo; url_slides = &amp;ldquo;&amp;rdquo; url_video = &amp;ldquo;&amp;rdquo; url_poster = &amp;ldquo;&amp;rdquo; url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Does the content use math formatting?
-math = true&lt;/p&gt;
-
-&lt;p&gt;Does the content use source code highlighting?
-highlight = true&lt;/p&gt;
-
-&lt;p&gt;Featured image
-Place your image in the static/img/ folder and reference its filename below, e.g. image = &amp;ldquo;example.jpg&amp;rdquo;.
-[header] image = &amp;ldquo;&amp;rdquo; caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;+++&lt;/p&gt;
-
-&lt;p&gt;More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Visualization of 3D Flow Data</title>
+      <link>https://yuzhezhou.github.io/publication/project1/</link>
+      <pubDate>Thu, 28 Jan 2016 21:53:40 -0500</pubDate>
+      
+      <guid>https://yuzhezhou.github.io/publication/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airflow Investigation in Hyperloop</title>
+      <link>https://yuzhezhou.github.io/publication/project2/</link>
+      <pubDate>Mon, 28 Dec 2015 22:32:47 -0500</pubDate>
+      
+      <guid>https://yuzhezhou.github.io/publication/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wind-powered Heat Pump Design</title>
+      <link>https://yuzhezhou.github.io/publication/project3/</link>
+      <pubDate>Tue, 28 Apr 2015 22:53:16 -0500</pubDate>
+      
+      <guid>https://yuzhezhou.github.io/publication/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertical Goods Transport System for Sandikhola</title>
+      <link>https://yuzhezhou.github.io/publication/project4/</link>
+      <pubDate>Tue, 28 Jan 2014 23:17:41 -0500</pubDate>
+      
+      <guid>https://yuzhezhou.github.io/publication/project4/</guid>
+      <description></description>
     </item>
     
   </channel>
