@@ -114,14 +114,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #000000;
+  color: #696969;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #000000;
+  color: #696969;
 }
 
 img,
@@ -330,7 +330,7 @@ a[data-fancybox] img {
 }
 
 .home-section:nth-of-type(even) {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(247, 247, 247);
 }
 
 @media screen and (max-width: 768px) {
@@ -425,7 +425,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #000000;
+  color: #696969;
   font-size: 3rem;
   text-align: center;
 }
@@ -463,7 +463,7 @@ a[data-fancybox] img {
   margin: 0px 0 10px 0;
 }
 
-#profile ul.network-icon {
+#yz-icon ul.social-icon {
   display: inline-flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -472,15 +472,15 @@ a[data-fancybox] img {
   margin-top: 30px;
 }
 
-#profile .network-icon li {
+#yz-icon .social-icon li {
   margin-right: 10px;
 }
 
-#profile .network-icon li:last-of-type {
+#yz-icon .social-icon li:last-of-type {
   margin-right: 0;
 }
 
-#profile .network-icon li:hover {
+#yz-icon .social-icon li:hover {
   transform: scale(1.2)
 }
 
@@ -641,7 +641,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: #000000;
+  color: #696969;
 }
 
 .middot-divider {
@@ -978,8 +978,8 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-primary {
-  border-color: #000000 !important;
-  background: #000000 !important;
+  border-color: #696969 !important;
+  background: #696969 !important;
 }
 
 .btn-primary:hover,
@@ -987,7 +987,7 @@ footer a#back_to_top i {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #000000 !important;
+  background: #696969 !important;
 }
 
 .btn-light {
@@ -1040,12 +1040,12 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline {
-  color: #000000 !important;
-  border-color: #000000 !important;
+  color: #696969 !important;
+  border-color: #696969 !important;
 }
 
 .btn-primary.btn-outline:focus {
-  color: #000000 !important;
+  color: #696969 !important;
 }
 
 .btn-primary.btn-outline:active {
@@ -1456,7 +1456,7 @@ body.dark {
 }
 
 .dark ul.share li a {
-  background-color: #000000;
+  background-color: #696969;
 }
 
 .dark table table {
@@ -1510,7 +1510,7 @@ body.dark {
 }
 
 .dark .card h4 a {
-  color: #000000;
+  color: #696969;
   border-bottom: solid 1px transparent;
 }
 
