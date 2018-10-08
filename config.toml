@@ -51,13 +51,13 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Yuzhe Zhou"
-  role = "A Prodcut Engineering & Tech Enthusiast"
+  role = "Product Engineer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   # organizations = [ { name = "Purdue University", url = "https://engineering.purdue.edu/ME" } ]
-  organization = "Purdue University"
-  organization_url = "https://engineering.purdue.edu/ME"
+  organization = "Cummins Inc."
+  organization_url = "https://www.cummins.com"
 
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
@@ -274,12 +274,17 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "CV"
   url = "#CV"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
-  name = ""
-  url = ""
+  name = "Post"
+  url = "#posts"
   weight = 5
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 3
 
 [[menu.main]]
   name = "Contact"
