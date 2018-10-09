@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Development of Single-Ended LAS Sensor</title>
+      <link>https://yuzhezhou.github.io/publication/project0/</link>
+      <pubDate>Tue, 28 Aug 2018 21:09:23 -0500</pubDate>
+      
+      <guid>https://yuzhezhou.github.io/publication/project0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Our work is on the cover of Applied Optics</title>
       <link>https://yuzhezhou.github.io/post/post1/</link>
       <pubDate>Sun, 28 Jan 2018 23:51:55 -0500</pubDate>
@@ -21,15 +30,6 @@
     
     <item>
       <title>Compact, fiber-coupled, single-ended laser-absorption-spectroscopy sensors for high-temperature environments</title>
-      <link>https://yuzhezhou.github.io/project/paper1/</link>
-      <pubDate>Sun, 28 Jan 2018 21:09:23 -0500</pubDate>
-      
-      <guid>https://yuzhezhou.github.io/project/paper1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development of Single-Ended LAS Sensor</title>
       <link>https://yuzhezhou.github.io/publication/paper1/</link>
       <pubDate>Sun, 28 Jan 2018 21:09:23 -0500</pubDate>
       
@@ -39,19 +39,19 @@
     
     <item>
       <title>Development of a Single-Ended Laser-Absorption-Spectroscopy Sensor for High-Temperature Gases</title>
-      <link>https://yuzhezhou.github.io/project/thesis/</link>
+      <link>https://yuzhezhou.github.io/project1/thesis/</link>
       <pubDate>Sun, 28 Jan 2018 21:09:23 -0500</pubDate>
       
-      <guid>https://yuzhezhou.github.io/project/thesis/</guid>
+      <guid>https://yuzhezhou.github.io/project1/thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of a Single-Ended Laser-Absorption-Spectroscopy Sensor for High-Temperature Gases</title>
-      <link>https://yuzhezhou.github.io/project1/thesis/</link>
+      <link>https://yuzhezhou.github.io/publication/thesis/</link>
       <pubDate>Sun, 28 Jan 2018 21:09:23 -0500</pubDate>
       
-      <guid>https://yuzhezhou.github.io/project1/thesis/</guid>
+      <guid>https://yuzhezhou.github.io/publication/thesis/</guid>
       <description></description>
     </item>
     
@@ -75,10 +75,10 @@
     
     <item>
       <title>Single-Ended Infrared-Laser-Absorption Sensing of Gas Properties</title>
-      <link>https://yuzhezhou.github.io/project/paper2/</link>
+      <link>https://yuzhezhou.github.io/publication/paper2/</link>
       <pubDate>Sat, 28 Jan 2017 21:09:23 -0500</pubDate>
       
-      <guid>https://yuzhezhou.github.io/project/paper2/</guid>
+      <guid>https://yuzhezhou.github.io/publication/paper2/</guid>
       <description></description>
     </item>
     
