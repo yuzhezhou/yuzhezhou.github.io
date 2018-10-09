@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Our work is on the cover of Applied Optics!</title>
+      <link>https://yuzhezhou.github.io/post/post1/</link>
+      <pubDate>Fri, 28 Sep 2018 23:51:55 -0500</pubDate>
+      
+      <guid>https://yuzhezhou.github.io/post/post1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Development of Single-Ended LAS Sensor</title>
       <link>https://yuzhezhou.github.io/project/project0/</link>
       <pubDate>Tue, 28 Aug 2018 21:09:23 -0500</pubDate>
@@ -20,11 +29,11 @@
     </item>
     
     <item>
-      <title>Our work is on the cover of Applied Optics</title>
-      <link>https://yuzhezhou.github.io/post/post1/</link>
-      <pubDate>Sun, 28 Jan 2018 23:51:55 -0500</pubDate>
+      <title>Experiment on Cummins&#39; diesel engine aftertreatment system in Herrick using our single-ended sensor</title>
+      <link>https://yuzhezhou.github.io/post/post2/</link>
+      <pubDate>Thu, 02 Aug 2018 23:51:55 -0500</pubDate>
       
-      <guid>https://yuzhezhou.github.io/post/post1/</guid>
+      <guid>https://yuzhezhou.github.io/post/post2/</guid>
       <description></description>
     </item>
     
