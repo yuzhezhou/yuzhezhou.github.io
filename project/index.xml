@@ -25,7 +25,13 @@
       <pubDate>Sat, 28 May 2016 21:53:40 -0500</pubDate>
       
       <guid>https://yuzhezhou.github.io/project/project1/</guid>
-      <description></description>
+      <description>&lt;p&gt;Scientific visualization is an indispensable tool to create insight from a mass of data resulting from constantly complex numerical models. Visualizing such massive amounts of datasets is a technique-demanding job which requires the support from high performance computers and the structure of parallel computing. As a powerful visualization tool, ParaView was chosen to carry out the project and conduct the render performance tests.
+A literature survey was conducted and found that the process of parallel visualization relied on parallel I/O and parallel rendering. Threes modes of ParaView were also introduced and Client/Server mode was used in the project. The literature survey also introduced the data structure of the dataset used in the project and two modes of rendering, interactive rendering and still rendering.
+The overall aims of the project were to carry out a render scaling test and investigate the parallel rendering performance of the tests. Moreover, a 3D flow visualization animation was produced based on the experiences from the previous testing.
+The test was prepared and conducted on Data Analytic Cluster located at the University of Edinburgh. As a start basis, ParaView server was built step by step. Then a strong scaling test was prepared. The size of input file was fixed and the number of processors were increased during the test. Timing information for each case were collected from ParaView timer log function. The results did not indicate obvious improvement in the I/O and still render efficiency as the number of cores increases. It was then analysed and discussed to find that the serial file I/O and the communication sockets between client and server could cause a bottleneck on the performance. So another test was run on a standalone version of ParaView to verify the assumption. The modified results showed a clear improved render speedup and an approximate speedup of 12 could be achieved when 64 cores were in use, which was thought as a not bad performance.
+A 3D flow animation was produced and saved in a USB drive. Crashing problems happened during the process. It was then found that the settings of rendering parameters and data cached in the buffer were two reasons causing the crash problems. An investigation was conducted to solve the problems and the animation was finished finally.
+Overall parallel visualization is very complicated to be carried out, which relies on systematical knowledge and experience. The project has successfully contributed to investigation and optimization of parallel rendering on Data Analytic Cluster. And it could be a good starting point to conduct the further investigation on parallel I/O and off-screen rendering in the future work.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -34,7 +40,8 @@
       <pubDate>Mon, 28 Dec 2015 22:32:47 -0500</pubDate>
       
       <guid>https://yuzhezhou.github.io/project/project2/</guid>
-      <description></description>
+      <description>&lt;p&gt;The hyperloop is a proposal for a new transportation system between Los Angeles and San Francisco consisting of a low pressure tube with pods levitated on air cushions travelling through nearly at sonic speed. The pods are accelerated via a linear induction motor and can carry up to 28 passengers with an expected travel time of 35 minutes. The flow of air in the hyperloop system is of utmost importance to its operation and plays a significant role in the pod’s air compression and air suspension bearing subsystems. The vacuum pump system throughout the length of the tube is crucial in maintaining the low pressure system required for these high speeds. These three systems were chosen for further study in order to come up with real solutions to the problems in the original proposal. Using Matlab scripts, CFD packages and Simulink models, conditions in the tube were simulated in order to obtain accurate results for our work. Based on our work alone however, it is difficult to determine the feasibility of the hyperloop proposal as the safety, economics and cost were not considered. The work done in this report serves as a basis for further research into all the hyperloop’s aspects rather than an all rounded effort to analyse the feasibility of the hyperloop. The results obtained show that the pod’s dimensions may be too small for the required axial compressor, the solution being either to increase the power input to the compressor or to increase the pod’s cross sectional area. The intercoolers and fluid storage tanks necessary for the compression system’s operation were designed with the pod’s dimensions in mind. The entire compression system was found to occupy roughly 16 m of pod length. Further work needs to be carried out to determine whether this is a suitable length for the pod to traverse the entire tube at high speed with all the turns involved. The air bearing suspension system was found to provide sufficient lift force for the 15 ton pods. Tilting the air skis at an angle of 0.05° does very little to alleviate lift force from the skis however, future work can be carried out to vary the shape or size of the skis to make this a more attractive option. It was found that 772 ‘Pascal 2063’ rotary vane vacuum pumps can evacuate the entire 563 km length of tubing in roughly 6 hours 30 minutes.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -43,7 +50,8 @@
       <pubDate>Tue, 28 Apr 2015 22:53:16 -0500</pubDate>
       
       <guid>https://yuzhezhou.github.io/project/project3/</guid>
-      <description></description>
+      <description>&lt;p&gt;The brief required a small wind turbine system to be designed to provide domestic hot water.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -52,7 +60,8 @@
       <pubDate>Tue, 28 Jan 2014 23:17:41 -0500</pubDate>
       
       <guid>https://yuzhezhou.github.io/project/project4/</guid>
-      <description></description>
+      <description>&lt;p&gt;Engineers without Boarders (EWB) have been Collaborating with Nepal Water for Health (NEWAH) for several years. EWB held a workshop with representatives of NEWAH in Nepal and came up with seven project areas which were under development or consideration and would be suitable options for the EWB challenge. The projects were aimed at hilltop communities in Nepal’s Gorkha district. The village of Sandikhola was used to give context to students taking the challenge but it was essential that the design could be adapted to fit all hilltop communities in the area. The roads in the area are poor and transportation can be difficult and sometimes impossible during the rainy season. This dictated that the project should be conducted in the dry season and preferably would be finished in time for the rain. Funding was said to be available but should be sought after in order to justify the project. It was also noted that many hilltop communities do not have running water, electricity or fossil fuel supply. The project chosen was vertical goods transportation via an aerial ropeway. The systems function would be to transport firewood, crops, animal feed and anything else that the people of the village usually carry up the hill in a bag.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
